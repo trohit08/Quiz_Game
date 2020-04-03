@@ -1,0 +1,9 @@
+Questions,				op1,	    op2,	    op3,	        op4,		Answers
+Q. What is the capital of india?,		Beijing,	    Tokyo,	    Moscow,       Delhi,		Delhi
+Q. What is the currency in India?,		Dollar,	    Yen,	    Pound,         Rupee,	Rupee	
+Q. What is the capital of Brazil?,		Brasilia,	    London,    Moscow,       Tokyo,	Brasilia
+Q. Which crop is sown on the largest area in India?,	Rice,	    Wheat,	    Sugarcane,   Maize,	Wheat
+Q. The world smallest country is,		Canada,	    Russia,	    Maldives,     Vatican City,	Vatican City
+Q. What is the second largest country (in size) in the world?,  Canada,  USA, China,          Russia,	Canada
+Q. Which language is spoken in Karnataka?,	Marathi,	    Hindi,	    Malayalam,  Kannada,	Kannada
+Q. Ball pen function on which principal?,          Boyle’s law,  Gravitational force,  Surface tension,  Viscosity,  Surface tension
